@@ -1,28 +1,8 @@
 ## Hey 👋, I'm Yuan jian Ming!  
   
+ 
 
-<a href="https://github.com/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-
-### Glad to see you here!  
-I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
-
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
-
-<br/>  
-
-
-## Rapidfire  
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-- ❓ Ask me about anything related to MERN stack and related technologies  
-- ⚡ Fun fact: I keep night shift swithed on at all times
-
-<br/>  
-
-
-## Languages and Tools  
+## 语言&工具
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
@@ -63,10 +43,27 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <br/>  
 
 
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=yuan66-hub&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" /> 
+## 我的项目  
+- [图片多格式转换插件](https://github.com/yuan66-hub/unplugin-image-convert)
+- [svg资源压缩插件](https://github.com/yuan66-hub/unplugin-compress-svga)
+- [字体资源压缩插件](https://github.com/yuan66-hub/unplugin-font-spider)
+- [手写微前端](https://github.com/yuan66-hub/micro-frontend-app)
+- [手写基于react服务端渲染](https://github.com/yuan66-hub/react-ssr-template)
+- [手写基于vue服务端渲染](https://github.com/yuan66-hub/vue-ssr-template)
+- [检测 JavaScript/TypeScript 代码中潜在内存泄漏问题的 ESLint 插件](https://github.com/yuan66-hub/check-memory-eslint-plugin)
+- [企业级UI组件库模板](https://github.com/yuan66-hub/ui-template)
+- [智能AI对话平台](https://github.com/yuan66-hub/ai-web-app)
+- [基于expo防小红书APP](https://github.com/yuan66-hub/expo-redbook)
+- [基于react多页面H5模板](https://github.com/yuan66-hub/react-h5-pages)
+- [手写基于react虚拟滚动列表](https://github.com/yuan66-hub/virtual-seamless-scroll)
+- [canvas-demo](https://github.com/yuan66-hub/canvas-demo)
+- [webpack-demo](https://github.com/yuan66-hub/webpack-custom-plugins)
 
 <br/>  
- 
+
+
+
+
+
   
 
