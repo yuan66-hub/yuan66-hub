@@ -58,6 +58,7 @@
 - [手写基于react虚拟滚动列表](https://github.com/yuan66-hub/virtual-seamless-scroll)
 - [canvas-demo](https://github.com/yuan66-hub/canvas-demo)
 - [webpack-demo](https://github.com/yuan66-hub/webpack-custom-plugins)
+- [vue2-performance-skills](https://github.com/yuan66-hub/vue2-performance)
 
 <br/>  
 
