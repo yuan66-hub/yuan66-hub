@@ -45,7 +45,7 @@
 
 ## 我的项目  
 - [图片多格式转换插件](https://github.com/yuan66-hub/unplugin-image-convert)
-- [svg资源压缩插件](https://github.com/yuan66-hub/unplugin-compress-svga)
+- [svga资源压缩插件](https://github.com/yuan66-hub/unplugin-compress-svga)
 - [字体资源压缩插件](https://github.com/yuan66-hub/unplugin-font-spider)
 - [手写微前端](https://github.com/yuan66-hub/micro-frontend-app)
 - [手写基于react服务端渲染](https://github.com/yuan66-hub/react-ssr-template)
