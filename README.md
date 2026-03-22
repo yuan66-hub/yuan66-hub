@@ -53,7 +53,7 @@
 - [检测 JavaScript/TypeScript 代码中潜在内存泄漏问题的 ESLint 插件](https://github.com/yuan66-hub/check-memory-eslint-plugin)
 - [企业级UI组件库模板](https://github.com/yuan66-hub/ui-template)
 - [智能AI对话平台](https://github.com/yuan66-hub/ai-web-app)
-- [基于expo防小红书APP](https://github.com/yuan66-hub/expo-redbook)
+- [基于expo仿小红书APP](https://github.com/yuan66-hub/expo-redbook)
 - [基于react多页面H5模板](https://github.com/yuan66-hub/react-h5-pages)
 - [手写基于react虚拟滚动列表](https://github.com/yuan66-hub/virtual-seamless-scroll)
 - [canvas-demo](https://github.com/yuan66-hub/canvas-demo)
