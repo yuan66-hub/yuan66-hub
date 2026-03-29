@@ -60,6 +60,7 @@
 - [webpack-demo](https://github.com/yuan66-hub/webpack-custom-plugins)
 - [vue2-performance-skills](https://github.com/yuan66-hub/vue2-performance)
 - [Ai视频编辑预览助手](https://github.com/yuan66-hub/remotion-agent)
+- [ffmpeg-mcp](https://github.com/yuan66-hub/ffmpeg-mcp)
 
 <br/>  
 
